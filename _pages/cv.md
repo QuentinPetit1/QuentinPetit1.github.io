@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mean Field games, Paris-Dauphine Univsersity, 2022 
+* Ph.D in Mean Field games, PSL & Paris-Dauphine Univsersity, 2022 
 * M.S. in Applied Mathematics, PSL & Paris-Dauphine University, 2018
 * M.S. in Engineering, Mines Paris, 2018
 * B.S. in Applied Mathematics, PSL & Paris-Dauphine University, 2015
@@ -40,10 +40,5 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 
