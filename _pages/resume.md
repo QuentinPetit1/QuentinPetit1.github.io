@@ -11,14 +11,14 @@ redirect_from:
 
 Positions
 ======
-* April 2022 - now: Engineering  and Reschearcher - EDF R&D
+* April 2022 - now: Engineer and researcher at EDF R&D and FiME Lab
   * Energy markets
   * Risk managment
   * Developing new models and numerical tools
 
-* November 2018 - February 2022: Ph.D Candidate
+* November 2018 - February 2022: Ph.D Candidate at PSL University
   * Non-atomic games with economical applications
-  * Supervisor: Professor Yves Achdou, Guillaume Carlier, Daniela Tonon
+  * Supervisor: Professor Yves Achdou, Guillaume Carlier, and Daniela Tonon
   
 Education
 ======
