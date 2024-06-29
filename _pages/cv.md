@@ -39,7 +39,7 @@ Talks
 * April 24-27, 2023: <a href="https://sites.google.com/view/workshophammamet/home">Stochastic control & Risk</a>.
 * November 29-30, 2022: <a href="https://fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/home/pgmo-days/">PGMO</a> days at EDF Lab.
 * September 13-14, 2023: <a href="https://fime-lab.org/en/home/">Fime</a> workshop.
-* June 10-14, 2019: <a herf="https://cvgmt.sns.it/event/520/">CIME</a> course on Mean Field Games.
-* December 17-18, 2018 <a herf="https://mfgdayparis2018.sciencesconf.org/">Journées projet ANR "Mean Field Games"</a>. 
+* June 10-14, 2019: <a href="https://cvgmt.sns.it/event/520/">CIME</a> course on Mean Field Games.
+* December 17-18, 2018 <a href="https://mfgdayparis2018.sciencesconf.org/">Journées projet ANR "Mean Field Games"</a>. 
   
 
