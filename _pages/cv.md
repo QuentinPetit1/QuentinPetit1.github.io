@@ -35,10 +35,11 @@ Publications
   
 Talks
 ======
-* November 28-29, 2023: PGMO days at EDF Lab.
-* April 24-27, 2023: Stochastic control & Risk.
-* November 29-30, 2022: PGMO days at EDF Lab.
-* September 13-14, 2023: Fime workshop.
-* Ecole d'ete cetraro <a href="https://openclassrooms.com/fr/">Accedez a OpenClassrooms</a>
+* November 28-29, 2023: <a href="https://fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/home/pgmo-days/">PGMO</a> days at EDF Lab.
+* April 24-27, 2023: <a href="https://sites.google.com/view/workshophammamet/home">Stochastic control & Risk</a>.
+* November 29-30, 2022: <a href="https://fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/home/pgmo-days/">PGMO</a> days at EDF Lab.
+* September 13-14, 2023: <a href="https://fime-lab.org/en/home/">Fime</a> workshop.
+
+* Ecole d'ete cetraro 
   
 
