@@ -11,12 +11,12 @@ redirect_from:
 
 Positions
 ======
-* Apr 2022 - now: Engineering  and Reschearcher - EDF R&D
+* April 2022 - now: Engineering  and Reschearcher - EDF R&D
   * Energy markets
   * Risk managment
   * Developing new models and numerical tools
 
-* Nov 2018 - Feb 2022: Ph.D Candidate
+* November 2018 - February 2022: Ph.D Candidate
   * Non-atomic games with economical applications
   * Supervisor: Professor Yves Achdou, Guillaume Carlier, Daniela Tonon
   
@@ -35,8 +35,6 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+*November 28-29, 2023: PGMO days at Palaiseau.
   
 
