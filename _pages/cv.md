@@ -37,7 +37,7 @@ Talks
 ======
 * November 28-29, 2023: <a href="https://fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/home/pgmo-days/">PGMO days</a>, EDF Labs, Palaiseau. 
 * April 24-27, 2023: <a href="https://sites.google.com/view/workshophammamet/home">Stochastic control & Risk</a>, Hammamet.
-* November 29-30, 2022: <a href="https://fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/home/pgmo-days/">PGMO</a>, EDF Labs, Palaiseau.
+* November 29-30, 2022: <a href="https://fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/home/pgmo-days/">PGMO days</a>, EDF Labs, Palaiseau.
 * December 12-14, 2022: <a href="https://www.mfg-and-applications.fr/homepage">Workshop</a> on Mean Field Games and Applications, Centre Lagrange, Paris.
 * June 20-22, 2018: <a href="https://micnon2018.org/">MICNON 2018</a>.
 
