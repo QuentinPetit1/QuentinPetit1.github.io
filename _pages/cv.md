@@ -39,6 +39,6 @@ Talks
 * April 24-27, 2023: Stochastic control & Risk.
 * November 29-30, 2022: PGMO days at EDF Lab.
 * September 13-14, 2023: Fime workshop.
-* Ecole d'ete cetraro
+* Ecole d'ete cetraro <a href="https://openclassrooms.com/fr/">Accedez a OpenClassrooms</a>
   
 
