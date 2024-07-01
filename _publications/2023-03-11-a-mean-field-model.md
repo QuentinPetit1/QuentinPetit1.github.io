@@ -6,7 +6,7 @@ excerpt: 'We consider an economy made of competing firms which are heterogeneous
 
 <br>
 
-<a href="http://QuentinPetit1.github.io/files/a_mean_field_model_numerics.pdf">Numerics</a>.'
+<a href="http://QuentinPetit1.github.io/files/a_mean_field_model_numerics.pdf">Numerics</a>'
 date: 2023-03-11
 venue: 'Mathematics and Financial Economics'
 slidesurl: 'http://QuentinPetit1.github.io/files/slides_a_mean_field_model.pdf'
