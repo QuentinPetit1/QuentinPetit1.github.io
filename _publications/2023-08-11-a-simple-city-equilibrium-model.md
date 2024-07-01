@@ -6,8 +6,6 @@ excerpt: 'with Y. Achdou, G. Carlier and D. Tonon. <br><br>
 <a href="http://QuentinPetit1.github.io/files/A_simple_city_equilibrium_model_with_an_application_to_teleworking.pdf"> Download Paper </a> | <a href="http://QuentinPetit1.github.io/files/slides_city.pdf"> Download Slides </a>'
 date: 2023-08-11
 venue: 'Applied Mathematics & Optimization'
-slidesurl: 'http://QuentinPetit1.github.io/files/slides_city.pdf'
-paperurl: 'http://QuentinPetit1.github.io/files/A_simple_city_equilibrium_model_with_an_application_to_teleworking.pdf'
 ---
 
 with Y. Achdou, G. Carlier and D. Tonon.
