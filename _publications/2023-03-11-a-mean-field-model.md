@@ -2,7 +2,7 @@
 title: "A mean field model for the interactions between firms on the markets of their inputs"
 collection: publications
 permalink: /publication/2023-03-11-a-mean-field-model
-excerpt: 'With Achdou, Carlier and Tonon <br><br> <a href="http://QuentinPetit1.github.io/files/a_mean_field_model_numerics.pdf">Numerics</a>'
+excerpt: 'With Y. Achdou, G. Carlier and D. Tonon <br><br> <a href="http://QuentinPetit1.github.io/files/a_mean_field_model_numerics.pdf">Numerics</a>'
 date: 2023-03-11
 venue: 'Mathematics and Financial Economics'
 slidesurl: 'http://QuentinPetit1.github.io/files/slides_a_mean_field_model.pdf'
