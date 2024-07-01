@@ -7,7 +7,6 @@ date: 2023-03-11
 venue: 'Mathematics and Financial Economics'
 slidesurl: 'http://QuentinPetit1.github.io/files/slides_a_mean_field_model.pdf'
 paperurl: 'http://QuentinPetit1.github.io/files/a_mean_field_model.pdf'
-citation: ''
 ---
 with Y. Achdou, G. Carlier and D. Tonon.
 
