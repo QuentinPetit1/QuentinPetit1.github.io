@@ -17,7 +17,7 @@ Positions
   
 Education
 ======
-* Ph.D in Mean Field games under the supervision of Yves Achdou, Guillaume Carlier and Daniela Tonon, PSL & Paris-Dauphine Univsersity, 2022 
+* Ph.D in Mean Field games, PSL & Paris-Dauphine Univsersity, 2022 
 * M.S. in Applied Mathematics, PSL & Paris-Dauphine University, 2018
 * M.S. in Engineering, Mines Paris, 2018
 * B.S. in Applied Mathematics, PSL & Paris-Dauphine University, 2015
