@@ -3,7 +3,7 @@ title: "A mean field model for the interactions between firms on the markets of 
 collection: publications
 permalink: /publication/2023-03-11-a-mean-field-model
 excerpt: 'with Y. Achdou, G. Carlier and D. Tonon <br><br> 
-<a href="http://QuentinPetit1.github.io/files/a_mean_field_model.pdf">Download Paper</a> / <a href="http://QuentinPetit1.github.io/files/slides_a_mean_field_model.pdf">Download Slides</a> / <a href="http://QuentinPetit1.github.io/files/a_mean_field_model_numerics.pdf">Numerics</a>'
+<a href="http://QuentinPetit1.github.io/files/a_mean_field_model.pdf">Download Paper</a> / <a href="http://QuentinPetit1.github.io/files/slides_a_mean_field_model.pdf">Download Slides</a> / <a href="http://QuentinPetit1.github.io/files/a_mean_field_model_numerics.pdf">Download Numerics</a>'
 date: 2023-03-11
 venue: 'Mathematics and Financial Economics'
 ---
@@ -13,4 +13,4 @@ We consider an economy made of competing firms which are heterogeneous in their 
 
 https://doi.org/10.1007/s11579-023-00333-z
 
-<a href="http://QuentinPetit1.github.io/files/a_mean_field_model.pdf">Download Paper</a> / <a href="http://QuentinPetit1.github.io/files/slides_a_mean_field_model.pdf">Download Slides</a> / <a href="http://QuentinPetit1.github.io/files/a_mean_field_model_numerics.pdf">Numerics</a>
+<a href="http://QuentinPetit1.github.io/files/a_mean_field_model.pdf">Download Paper</a> / <a href="http://QuentinPetit1.github.io/files/slides_a_mean_field_model.pdf">Download Slides</a> / <a href="http://QuentinPetit1.github.io/files/a_mean_field_model_numerics.pdf">Download Numerics</a>
