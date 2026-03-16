@@ -1,10 +1,10 @@
 ---
 title: "When Lions meets Krugman: A mean-field game theory of spatial dynamics"
 collection: publications
-permalink: /publication/2025-10-06-A-MFG-theory-of-spatial-dynamics
-excerpt: 'with M. Bahlali and R. Boucekkine.<br><br> <a href="http://QuentinPetit1.github.io/files/A-MFG-theory-of-spatial-dynamics.pdf">Download Paper</a>'
+permalink: /publication/2025-10-06-A_MFG_theory_of_spatial_dynamics
+excerpt: 'with M. Bahlali and R. Boucekkine.<br><br> <a href="http://QuentinPetit1.github.io/files/A_MFG_theory_of_spatial_dynamics.pdf">Download Paper</a>'
 date: 2025-10-06
-venue: 'preprint'
+venue: 'Preprint'
 ---
 
 with M. Bahlali and R. Boucekkine.
@@ -13,4 +13,4 @@ We propose a mean-field game (MFG) approach to study the dynamics of spatial agg
 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5669650
 
-<a href="http://QuentinPetit1.github.io/files/A-MFG-theory-of-spatial-dynamics.pdf">Download Paper</a>
+<a href="http://QuentinPetit1.github.io/files/A_MFG_theory_of_spatial_dynamics.pdf">Download Paper</a>
