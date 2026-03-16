@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-10-15-growth-model-with-externalities
 excerpt: 'with P. Lavigne and X. Warin.<br><br> <a href="http://QuentinPetit1.github.io/files/growth-model-with-externalities.pdf">Download Paper</a>'
 date: 2025-10-15
-venue: 'Preprint'
+venue: 'Preprint submitted to Mathematical Finance'
 ---
 
 with P. Lavigne and X. Warin.
