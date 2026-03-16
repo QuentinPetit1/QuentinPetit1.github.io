@@ -1,5 +1,5 @@
 ---
-title: "An equilibrium model of city with atmospheric pollution dispersion"
+title: "An ezaequilibrium model of city with atmospheric pollution dispersion"
 collection: publications
 permalink: /publication/2024-01-13-an-equilibrium-model-of-city-with-atmospheric-pollution-dispersion
 excerpt: 'with M. Bahlali.<br><br> <a href="http://QuentinPetit1.github.io/files/an-equilibrium-model-of-city-with-atmospheric-pollution-dispersion.pdf">Download Paper</a>'
