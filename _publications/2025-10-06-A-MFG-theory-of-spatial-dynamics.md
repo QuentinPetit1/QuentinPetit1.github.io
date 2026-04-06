@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-10-06-A-MFG-theory-of-spatial-dynamics
 excerpt: 'with M. Bahlali and R. Boucekkine.<br><br> <a href="http://QuentinPetit1.github.io/files/A-MFG-theory-of-spatial-dynamics.pdf">Download Paper</a>'
 date: 2025-10-06
-venue: 'Preprint submitted to Journal of Economic Theory'
+venue: 'Preprint conditionally accepted in Journal of Economic Theory'
 ---
 
 with M. Bahlali and R. Boucekkine.
