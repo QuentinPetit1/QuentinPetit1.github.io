@@ -30,6 +30,8 @@ Publications
   
 Talks
 ======
+* June 29 - July 3, 2026: <a href="https://eventi.unibo.it/bachelier"> XIII Bachelier Worl Congress </a>, Bologna University, Bologne. 
+* April 27-30, 2026: <a href="https://sites.google.com/view/conferencehammamet2026/home"> International Conference "Stochastic control and Games for Risk and Regulation"</a>, Hammamet.
 * November 18-19, 2025: <a href="">PGMO days</a>, EDF Labs, Palaiseau. 
 * October 1-3, 2025 <a href=""> Mathematical Models for the Impact of Human Activities on the Environment and Economic Decision Making </a>, LUISS University, Rome.
 * March 19-20, 2025: <a href=""> Economic Models in Mean Field Games and Related Topics - Part 2 </a>, Durham Univeristy.
@@ -66,6 +68,5 @@ Individual formation (conference, summer school)
 
 Miscellaneous
 =============
-* Member of the Board of the association *Cercle Magique de Paris*.
 * 20 years of athletics practice (specialized in middle distance running). Multiple participations in the French Championships (indoor, outdoor, and cross-country), best result: 5th place.
 
