@@ -1,10 +1,10 @@
 ---
-title: "Growth model with externalities for energetic transition via MFG with common external variable"
+title: "Growth Model With Externalities for the Energy Transition"
 collection: publications
 permalink: /publication/2025-10-15-growth-model-with-externalities
 excerpt: 'with P. Lavigne and X. Warin.<br><br> <a href="http://QuentinPetit1.github.io/files/growth-model-with-externalities.pdf">Download Paper</a>'
 date: 2026-05-05
-venue: 'Preprint submitted to Mathematical Finance'
+venue: 'Mathematical Finance'
 ---
 
 with P. Lavigne and X. Warin.
