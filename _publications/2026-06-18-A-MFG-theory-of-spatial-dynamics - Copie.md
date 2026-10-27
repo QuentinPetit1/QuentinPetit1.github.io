@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Non-Potential_Congestion_Games_with_a_Continuum_of_Players
 excerpt: 'with A. Dupont and A. Séguret.<br><br> <a href="http://QuentinPetit1.github.io/files/Non-Potential_Congestion_Games_with_a_Continuum_of_Players.pdf">Download Paper</a>'
 date: 2026-10-27
-venue: 'Preprint'
+venue: 'Preprint submitted to ESAIM:COCV'
 ---
 
 with A. Dupont and A. Séguret.
