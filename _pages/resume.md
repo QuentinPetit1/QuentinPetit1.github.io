@@ -30,7 +30,7 @@ Publications
   
 Talks
 ======
-* June 29 - July 3, 2026: <a href="https://eventi.unibo.it/bachelier"> XIII Bachelier Worl Congress </a>, Bologna University, Bologne. 
+* June 29 - July 3, 2026: <a href="https://eventi.unibo.it/bachelier"> XIII Bachelier World Congress </a>, Bologna University, Bologne. 
 * April 27-30, 2026: <a href="https://sites.google.com/view/conferencehammamet2026/home"> International Conference "Stochastic control and Games for Risk and Regulation"</a>, Hammamet.
 * November 18-19, 2025: <a href="">PGMO days</a>, EDF Labs, Palaiseau. 
 * October 1-3, 2025 <a href=""> Mathematical Models for the Impact of Human Activities on the Environment and Economic Decision Making </a>, LUISS University, Rome.
@@ -42,13 +42,17 @@ Talks
 * December 12-14, 2022: <a href="https://www.mfg-and-applications.fr/homepage">Workshop</a> on Mean Field Games and Applications, Centre Lagrange, Paris.
 * June 20-22, 2018: <a href="https://www.proceedings.com/content/041/041092webtoc.pdf">MICNON 2018</a>, Guadalajara.
 
+Grant 
+=====
+* PGMO project: Electrical Mobility and Charging Strategy in Island/isolated context 
+
 Reviewer for
 ============
 * Journal of Mathematical Economics
 
 Teaching
 ========
-* **2022–Present**: Instructor for several professional training sessions on financial modelling for engineers, analysts, and quantitative practitioners (EDF internal courses and industry-oriented programs).
+* **2022–Present**: Instructor for several professional training sessions on financial modelling for engineers, analysts, and quantitative practitioners (EDF internal courses).
 * **2018–2021**: Teaching assistant at Université Paris-Dauphine for the undergraduate first-year (L1) courses on *analysis* (Analyse 2) and *probabilities* (Probabilité 1).
 
 Supervision
