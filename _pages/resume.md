@@ -42,8 +42,8 @@ Talks
 * December 12-14, 2022: <a href="https://www.mfg-and-applications.fr/homepage">Workshop</a> on Mean Field Games and Applications, Centre Lagrange, Paris.
 * June 20-22, 2018: <a href="https://www.proceedings.com/content/041/041092webtoc.pdf">MICNON 2018</a>, Guadalajara.
 
-Grant 
-=====
+Funding 
+=======
 * PGMO project: Electrical Mobility and Charging Strategy in Island/isolated context 
 
 Reviewer for
